@@ -11,10 +11,14 @@
             "id": "166eb74d8320a811",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2-Areas/Project-Task-Tracker/2025-05-May.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-05-May"
             }
           }
         ]
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Areas/Project-Task-Tracker/2025-05-May.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-05-May"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Areas/Project-Task-Tracker/2025-05-May.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-05-May"
             }
           },
           {
@@ -136,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2-Areas/Project-Task-Tracker/2025-05-May.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-05-May"
             }
           }
         ]
@@ -163,8 +171,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df349dceea6231ec",
+  "active": "166eb74d8320a811",
   "lastOpenFiles": [
+    "2-Areas/Procurement/2025.md",
+    "2-Areas/Untitled.md",
+    "1-Projects/Stm32Node/stm32-c0 node.pdf",
+    "1-Projects/Stm32Node",
+    "2-Areas/Project-Task-Tracker/2025-05-May.md",
+    "2-Areas/Procurement",
+    "2-Areas/Project-Task-Tracker/2025-04-April.md",
+    "2-Areas/Project-Task-Tracker",
     "4-Archive",
     "3-Resources",
     "2-Areas",
