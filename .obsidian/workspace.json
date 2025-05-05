@@ -151,13 +151,23 @@
               "icon": "lucide-list",
               "title": "Outline of 2025-05-May"
             }
+          },
+          {
+            "id": "0c78dcebe5774c3d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "166eb74d8320a811",
+  "active": "8f5a1f13cc35514a",
   "lastOpenFiles": [
     "2-Areas/Procurement/2025.md",
     "2-Areas/Untitled.md",
